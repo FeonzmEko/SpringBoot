@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/springboot-01-01-quickstart/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-02-baseconfiguration/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-04-junit/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-05-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-06-mybatisplus/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-07-druid/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-08-ssmp/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springboot-0x-xxxxxx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-13-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-16-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-18-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-19-jetcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-25-admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-26-admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-26-admin-client/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-28-bean-load/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-28-bean-load/src/main/resources" charset="UTF-8" />
   </component>
 </project>

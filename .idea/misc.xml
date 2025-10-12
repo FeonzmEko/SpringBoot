@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/springboot-04-junit/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-07-druid/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-0x-xxxxxx/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-05-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-16-redis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-06-mybatisplus/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-01-01-quickstart/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-02-baseconfiguration/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-08-ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-18-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-19-jetcache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-25-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-26-admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-28-bean-load/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17" project-jdk-type="JavaSDK" />
 </project>
